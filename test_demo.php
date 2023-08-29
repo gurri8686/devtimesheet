@@ -2,6 +2,6 @@
     echo "Test";
     echo "<br>";
     echo "I am here";
-    echo "new message1";
+    echo "new message";
     die;
 ?>
